@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""
-Module to convert Markdown to HTML
+"""Module to convert Markdown to HTML
 """
 
 import sys
